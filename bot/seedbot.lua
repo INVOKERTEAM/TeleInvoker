@@ -222,26 +222,26 @@ function create_config( )
     },
     sudo_users = {90285047},--Sudo users
     disabled_channels = {},
-    realm = {},--Realms Id
+    realm = {98073909},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[TeleSeed v1
+    about_text = [[TeleInvoker v0.1
 An advance Administration bot based on yagop/telegram-bot 
 
-https://github.com/SEEDTEAM/TeleSeed
+You can create make anti spam group
 
 Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@seyedan25 [Manager]
+@makanj79 [Founder]
+@AnathemaKing [Developer]
+@TheWorldKing [Manager]
 
 Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
+Arman25
+KingMakan
+Alireza
+Hossein
 
 Our channels
-@teleseedch [English]
+@invokerch [English]
 ]],
     help_text = [[
 Commands list :
