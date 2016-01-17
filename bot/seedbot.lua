@@ -239,7 +239,7 @@ function create_config( )
     about_text = [[TeleInvoker v0.1
 An advance Administration bot based on yagop/telegram-bot 
 
-You can create make anti spam group
+You can make anti spam group
 
 Admins
 @makanj79 [Founder]
@@ -247,7 +247,7 @@ Admins
 @TheWorldKing [Manager]
 
 Special thanks to
-Arman25
+seedteam
 KingMakan
 Alireza
 Hossein
