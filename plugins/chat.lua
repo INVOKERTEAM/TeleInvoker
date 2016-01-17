@@ -15,7 +15,7 @@ if msg.text == "Salam" then
 	return "Salam aleykom"
 end
 if msg.text == "salam" then
-	return "va aleykol asalam"
+	return "va aleyke asalam"
 end
 if msg.text == "makan" then
 	return "i love makan"
@@ -26,10 +26,10 @@ end
 if msg.text == "MAKAN" then
 	return "i love makan"
 end
-if msg.text == "BOT" then
+if msg.text == "XENON" then
 	return "Yes?"
 end
-if msg.text == "umbrella" then
+if msg.text == "Xenon" then
 	return "What?"
 end
 if msg.text == "bot" then
@@ -57,8 +57,8 @@ return {
 		"^[Hh]ello$",
 		"^[Mm]akan$",
 		"^MAKAN$",
-		"^[Bb]ot$",
-		"^[Bb]OT$",
+		"^[Xx]ENON$",
+		"^[Xx]enon$",
 		"^[Bb]ye$",
 		"^?$",
 		"^[Ss]alam$",
